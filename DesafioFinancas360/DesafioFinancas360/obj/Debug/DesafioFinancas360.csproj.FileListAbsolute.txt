@@ -1,0 +1,7 @@
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\bin\Debug\DesafioFinancas360.exe.config
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\bin\Debug\DesafioFinancas360.exe
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\bin\Debug\DesafioFinancas360.pdb
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\obj\Debug\DesafioFinancas360.csprojAssemblyReference.cache
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\obj\Debug\DesafioFinancas360.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\obj\Debug\DesafioFinancas360.exe
+C:\Users\kaiqu\Desktop\DesafioFinancas360\DesafioFinancas360\DesafioFinancas360\obj\Debug\DesafioFinancas360.pdb
